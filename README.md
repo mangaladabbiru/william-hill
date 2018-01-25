@@ -38,9 +38,9 @@ Project Implementation
 The project is built using BDD framework using cucumber. Assertions are made using JUNIT. For implementing design patterns I have declared Global Page Objects in the Page class. There are multiple ways to implement Page Object Pattern, first one is the way I implemented and the other is using @FindBy annotation. This way it will map Page Object properties to fields with matching ids or names.
 
 Built With
-•	BDD and JUNIT - The framework used
-•	Maven - Dependency Management
+BDD and JUNIT - The framework used
+Maven - Dependency Management
 
 Authors
-•	Mangala Dabbiru
+Mangala Dabbiru
 
